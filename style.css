@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.content{ 
+    margin-right: 20rem;
+    background-color: #C1BAA1;
+    max-height: 280px;
+}
+
+.inputs{
+    border: 2px solid ;
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+
+}
+
+
+
